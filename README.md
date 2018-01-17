@@ -2,10 +2,10 @@
 官网更新地址
 ### ssstk Team
 ### 最新墙内地址：
-- 官方网站：[www.ssstk.tk](https://www.ssstk.tk/)
-- 用户中心：[www.ssstk.tk](https://www.ssstk.tk/)
+- 官方网站：[www.sstz.info](https://www.sstz.info/)
+- 用户中心：[www.sstz.info](https://www.sstz.info/)
 ### 说明
-- 永久域名：[ssstk.tk](https://www.ssstk.tk/)，没有被墙，能够正常访问。
+- 永久域名：[sstz.info](https://www.sstz.info/)，没有被墙，能够正常访问。
 - 如果域名被墙，我们会第一时间在这里更新最新地址。
 - 请收藏本链接：<https://github.com/ssstk/ssstk>
 ### 关于
