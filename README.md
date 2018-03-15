@@ -1,8 +1,8 @@
 # 掠影ss
 官网更新地址
 ### 最新墙内地址：
-- 官方网站：[www.sstz.info](https://www.sstz.info/)
-- 用户中心：[www.sstz.info](https://www.sstz.info/)
+- 官方网站：[www.sstizi.tk](https://www.sstizi.tk/)
+- 用户中心：[www.sstizi.tk](https://www.sstizi.tk/)
 ### 说明
 - 永久域名：[sstz.info](https://www.sstz.info/)，没有被墙，能够正常访问。
 - 如果域名被墙，我们会第一时间在这里更新最新地址。
