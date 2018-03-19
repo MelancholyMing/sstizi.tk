@@ -12,7 +12,7 @@
 ```
 {
   "server" : "sgp.sstz.info",
-  "server_port" : 44849,
+  "server_port" : 49949,
   "method" : "aes-256-gcm",
   "password" : "sstz.info",
 }
