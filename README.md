@@ -14,9 +14,9 @@
 ### ss测试账号
 ```
 {
-  "server" : "hk.sssxo.com",
-  "server_port" : 54665,
-  "method" : "aes-256-gcm",
+  "server" : "d1.sssxo.com",
+  "server_port" : 49816,
+  "method" : "aes-128-gcm",
   "password" : "sssxo.com",
 }
 ```
