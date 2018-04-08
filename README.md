@@ -15,7 +15,7 @@
 ```
 {
   "server" : "d1.sssxo.com",
-  "server_port" : 49816,
+  "server_port" : 49999,
   "method" : "aes-128-gcm",
   "password" : "sssxo.com",
 }
