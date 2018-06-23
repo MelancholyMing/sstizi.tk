@@ -6,8 +6,8 @@
 ### 全部地址：
 - 官方网站：[www.tzss.info](https://www.tzss.info/)
 - 用户中心：[www.tzss.info](https://www.tzss.info/)
-- 官方网站：[www.stizi.tk](https://www.stizi.tk/)
-- 用户中心：[www.stizi.tk](https://www.stizi.tk/)
+- 官方网站：[www.stizi.tk](https://www.stizi.tk/) (被墙)
+- 用户中心：[www.stizi.tk](https://www.stizi.tk/) (被墙)
 ### 说明
 - 永久域名：[www.tzss.info](https://www.www.tzss.info/)，没有被墙，能够正常访问。
 - 如果域名被墙，我们会第一时间在这里更新最新地址。
